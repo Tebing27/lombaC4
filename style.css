@@ -109,7 +109,7 @@ a {
   display: inline-flex;
   align-items: center;
   column-gap: .25rem;
-  color: #191414;
+  color: #fff;
   font-weight: var(--font-semi-bold);
   transition: color .3s;
 }
@@ -131,7 +131,7 @@ a {
 .nav__toggle-menu,
 .nav__toggle-close {
   font-size: 1.25rem;
-  color: #191414;
+  color: #fff;
   position: absolute;
   display: grid;
   place-items: center;
@@ -170,7 +170,7 @@ a {
 }
 
 .nav__link {
-  color: #191414;
+  color: #fff;
   font-weight: var(--font-semi-bold);
   padding: 1.25rem 1.5rem;
   display: flex;
@@ -596,7 +596,7 @@ a {
 .about__decsription1 {
   margin-bottom: 2rem;
   font-family: var(--body-font);
-  text-align: center;
+  text-align:left;
   font-size: var(--small-font-size);
 }
 
