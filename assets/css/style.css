@@ -582,7 +582,7 @@ a {
 .about__decsription1 {
   margin-bottom: 2rem;
   font-family: var(--body-font);
-  text-align: center
+  text-align: left;
 }
 
 .section__title1 {
