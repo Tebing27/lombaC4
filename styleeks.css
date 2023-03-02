@@ -251,6 +251,7 @@ a {
   font-size: var(--small-font-size);
   font-weight: var(--font-semi-bold);
   color: #191414;
+  margin-top: 2rem;
 }
 
 .dropdown__list {
