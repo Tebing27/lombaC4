@@ -109,7 +109,7 @@ a {
   display: inline-flex;
   align-items: center;
   column-gap: .25rem;
-  color: #fff;
+  color: #191414;
   font-weight: var(--font-semi-bold);
   transition: color .3s;
 }
@@ -131,7 +131,7 @@ a {
 .nav__toggle-menu,
 .nav__toggle-close {
   font-size: 1.25rem;
-  color: #fff;
+  color: #191414;
   position: absolute;
   display: grid;
   place-items: center;
@@ -170,7 +170,7 @@ a {
 }
 
 .nav__link {
-  color: #fff;
+  color: #191414;
   font-weight: var(--font-semi-bold);
   padding: 1.25rem 1.5rem;
   display: flex;
